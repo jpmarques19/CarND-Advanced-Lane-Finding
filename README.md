@@ -119,7 +119,7 @@ I implemented this under the "Image pipeline with Curvature and Offset Calculati
 The pipeline for the video is a the end of the notebook. It uses functions and objects from the file `lane_finding_video.py`.
 I created a new class called `Lane()`, to make the code more functional, and I made some improvements to be able to skip some bad frames when they occur. Smoothing is also used, with weighted averages of past frames.
 
-Here's a [link to my video result](./project_video.mp4)
+Here's a link to my video result: https://www.youtube.com/watch?v=jwVIQPlqjBs
 
 ---
 
