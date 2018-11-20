@@ -16,16 +16,16 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./output_images/chess_undist.jpg "Undistorted"
-[image2]: ./output_images/road_undst.jpg "Road Transformed"
-[image3]: ./output_images/shadow_mask.jpg "Shadow Masking"
-[image4]: ./output_images/masked_binary.jpg "Masking Result"
-[image5]: ./output_images/gradients.jpg "Gradient combinations"
-[image6]: ./output_images/gradients_comb.jpg "Final Gradient"
-[image7]: ./output_images/warped_lines.jpg "Perspective Transform"
-[image8]: ./output_images/histogram.jpg "Find Base Points"
-[image9]: ./output_images/sliding_boxes.jpg "Lane Finding"
-[image10]: ./output_images/final_lane.jpg "Final result"
+[image1]: ./output_images/chess_undist.JPG "Undistorted"
+[image2]: ./output_images/road_undst.JPG "Road Transformed"
+[image3]: ./output_images/shadow_mask.JPG "Shadow Masking"
+[image4]: ./output_images/masked_binary.JPG "Masking Result"
+[image5]: ./output_images/gradients.JPG "Gradient combinations"
+[image6]: ./output_images/gradients_comb.JPG "Final Gradient"
+[image7]: ./output_images/warped_lines.JPG "Perspective Transform"
+[image8]: ./output_images/histogram.JPG "Find Base Points"
+[image9]: ./output_images/sliding_boxes.JPG "Lane Finding"
+[image10]: ./output_images/final_lane.JPG "Final result"
 [video1]: ./final_video.mp4 "Video"
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
